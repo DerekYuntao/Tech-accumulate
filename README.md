@@ -5,9 +5,7 @@ This is Yuntao Bao's technical blogs.
 The most intersting thing is to accumulate every progress I make. 
 
 ```py
-// python code with syntax highlighting.
-print("
-I like coding, bicycling, drawing and architecture.
+print(" I like coding, bicycling, drawing and architecture.
 I am impressed with weather, climate and astronomy. 
 It's a far way to be proficient in coding, but step by step!")
 ```
