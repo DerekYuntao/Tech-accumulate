@@ -1,19 +1,15 @@
-## aaa
+This is Yuntao Bao's technical blogs. 
 
-You can use the [editor on GitHub](https://github.com/DerekYuntao/Tech-accumulate/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2019-Now: Ph.D. student at OSU, USA
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The most intersting thing is to accumulate every progress I make. 
 
 ```markdown
 Syntax highlighted code block
 
-# TEST
-## Header 2
-### Header 3
+# I like coding, bicycling, drawing and architecture.
+## I am impressed with weather, climate and astronomy 
+### It's a far way to be proficient in coding, but let's step by step 
 
 - Bulleted
 - List
