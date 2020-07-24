@@ -9,13 +9,8 @@ Syntax highlighted code block
 
 # I like coding, bicycling, drawing and architecture.
 ## I am impressed with weather, climate and astronomy 
-### It's a far way to be proficient in coding, but let's step by step 
+### It's a far way to be proficient in coding, but step by step! 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
