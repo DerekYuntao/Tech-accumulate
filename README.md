@@ -4,7 +4,7 @@ This is Yuntao Bao's technical blogs.
 
 The most intersting thing is to accumulate every progress I make. 
 
-
+### markdwon
 print("
 I like coding, bicycling, drawing and architecture.
 I am impressed with weather, climate and astronomy. 
@@ -17,7 +17,7 @@ It's a far way to be proficient in coding, but step by step!")
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+ Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DerekYuntao/Tech-accumulate/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
