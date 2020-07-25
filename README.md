@@ -1,4 +1,4 @@
-This is Yuntao Bao's technical blogs. 
+This is Yuntao's technical blogs. 
 
 2019-Now: Ph.D. student at OSU, USA
 
